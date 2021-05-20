@@ -10,7 +10,6 @@ public class GaussFunction {
     }
 
     public double calcAffilation(double u){
-
         return 0;
     }
 }
